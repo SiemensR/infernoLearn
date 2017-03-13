@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 100px;
+}
+
+.App-header {
+  background-color: #f8f8f8;
+  height: 250px;
+  padding: 20px;
+  color: #3d464d;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+code {
+  color: #e73a37;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.BerlinName {
+ text-align: left;
+
+}
